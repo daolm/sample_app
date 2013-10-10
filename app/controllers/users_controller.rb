@@ -11,11 +11,15 @@ class UsersController < ApplicationController
   
   def show
     @user = User.find(params[:id])
+    @microposts = @user.microposts.paginate(page: params[:page])
     #binding.pry          
     #puts 'Vao day roi'   
   end
   
   def new
+    if current_user
+      redirect_to root_url
+    end
     @user = User.new
   end
   
@@ -57,7 +61,11 @@ class UsersController < ApplicationController
   private
   
     def user_params
-      params.require(:user).permit(:name, :email, :password, :password_confirmation)
+      if current_user && current_user.admin?
+        params.require(:user).permit(:name, :email, :password, :password_confirmation, :admin)
+      else
+        params.require(:user).permit(:name, :email, :password, :password_confirmation)
+      end
     end
     
     # Before filters

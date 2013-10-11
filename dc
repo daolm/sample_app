@@ -1,0 +1,107 @@
+commit f6857525d8ca45cb406febf8efc5cff333be2b74
+Author: daolm <daolm89@gmail.com>
+Date:   Thu Oct 10 15:31:08 2013 +0700
+
+    finish chapter 10
+
+commit faa31a8b3727d4678819c7f5192a7826ff8d99c9
+Author: daolm <daolm89@gmail.com>
+Date:   Wed Oct 9 14:16:09 2013 +0700
+
+    Finish chapter 9
+
+commit 3009e00a442ae18e73fdadf55a22c607431eba9d
+Author: daolm <daolm89@gmail.com>
+Date:   Tue Oct 8 14:14:20 2013 +0700
+
+    Finish chepter 8
+
+commit dd2f40b9797c5ccc1b8a73caa4930c374c764db8
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 13:20:08 2013 +0700
+
+    modify example_class
+
+commit d3bc19dd5df0ef157c59128124c04b696a94e517
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 13:02:18 2013 +0700
+
+    fix
+
+commit aa447abbfc1628d25d277e1bfa8c16337e9c463c
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 12:54:29 2013 +0700
+
+    Finish chap 7
+
+commit d68a0dac27936bd11bf4150403fcca86897228ed
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 11:53:44 2013 +0700
+
+    Finish chap 7
+
+commit 9dad1e606994bc436324f9b1ed4579db0f2879e5
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 11:38:19 2013 +0700
+
+    initialize_on_precompile application.rb
+
+commit edd0eb190f7a889aeeb18b644fda4b9e4e2bb3fa
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 10:30:40 2013 +0700
+
+    fix bug
+
+commit cebe787eef639f00ae6c3fc80047e4a39a9a88de
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 10:11:44 2013 +0700
+
+    Add SSL in production.rb
+
+commit 4ea52222a4227b2456c7a58aff82fb6b9c0a281b
+Author: daolm <daolm89@gmail.com>
+Date:   Mon Oct 7 10:07:56 2013 +0700
+
+    Finish user signup
+
+commit 16d10414cae141dc770c8c17b29609ff320f898d
+Author: daolm <daolm89@gmail.com>
+Date:   Fri Oct 4 11:09:40 2013 +0700
+
+    chapter 6
+
+commit e643d493cb27b77bfd8abae5215111b2a6ca6adc
+Author: daolm <daolm89@gmail.com>
+Date:   Thu Oct 3 15:13:37 2013 +0700
+
+    Chapter 5
+
+commit 7fa299084cb62f8c3cc05901730bbcb376b199cf
+Author: daolm <daolm89@gmail.com>
+Date:   Thu Oct 3 10:47:29 2013 +0700
+
+    chapter 4
+
+commit 0bcf8d8437046cacad279a64a2e316585dda4162
+Author: daolm <daolm89@gmail.com>
+Date:   Wed Oct 2 16:11:29 2013 +0700
+
+    Finish static pages
+
+commit b126d2419a9bfa38372967633e694b6681ac2336
+Author: daolm <daolm89@gmail.com>
+Date:   Wed Oct 2 14:53:11 2013 +0700
+
+    Add a StaticPages controller
+
+commit f5cce33b0cd68b8739d65b3aa27246fb48f44957
+Author: daolm <daolm89@gmail.com>
+Date:   Wed Oct 2 14:20:22 2013 +0700
+
+    Improve the README
+
+commit 2f87ae210655c4f22fb8a85c136e21fb5c2c318b
+Author: daolm <daolm89@gmail.com>
+Date:   Wed Oct 2 14:17:46 2013 +0700
+
+    Initial commit
